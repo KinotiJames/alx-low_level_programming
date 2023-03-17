@@ -4,7 +4,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - prints last randomly generated no.
+ * main - main function
  *
  * Return: always zero
  */
@@ -26,5 +26,5 @@ int main(void)
 	printf("\n");
 
 
-	return(0);
+	return (0);
 }
