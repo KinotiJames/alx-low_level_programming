@@ -40,5 +40,5 @@ static listint_t *new_node(const int n)
 		return (NULL);
 	new->n = n;
 	new->next = NULL;
-	 return (new);
+	return (new);
 }
